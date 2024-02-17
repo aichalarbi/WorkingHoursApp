@@ -1,0 +1,1 @@
+This Node.js Express app incorporates middleware to restrict access to specific routes during standard working hours, Monday to Friday from 9 AM to 5 PM. It serves basic HTML pages for the home, services, and contact routes, ensuring accessibility only within the designated time frame. This setup enhances control over website access, aligning with typical business hours.
